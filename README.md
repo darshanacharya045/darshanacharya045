@@ -1,4 +1,4 @@
-<## Hi there 👋>
+
 
 <!--
 **darshanacharya045/darshanacharya045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="(https://github.com/darshanacharya045/darshanacharya045/blob/main/banner1.png?raw=true)" alt="Banner Image" width="100%">
+  <img src="https://github.com/darshanacharya045/darshanacharya045/blob/main/banner1.png?raw=true" alt="Banner Image" width="100%">
 </p>
 
 
